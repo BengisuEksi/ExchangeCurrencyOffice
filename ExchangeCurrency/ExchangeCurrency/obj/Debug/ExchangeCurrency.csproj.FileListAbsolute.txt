@@ -1,0 +1,10 @@
+C:\Users\bengi\Desktop\C# Projects\ExchangeCurrency\ExchangeCurrency\bin\Debug\ExchangeCurrency.exe.config
+C:\Users\bengi\Desktop\C# Projects\ExchangeCurrency\ExchangeCurrency\bin\Debug\ExchangeCurrency.exe
+C:\Users\bengi\Desktop\C# Projects\ExchangeCurrency\ExchangeCurrency\bin\Debug\ExchangeCurrency.pdb
+C:\Users\bengi\Desktop\C# Projects\ExchangeCurrency\ExchangeCurrency\obj\Debug\ExchangeCurrency.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\ExchangeCurrency\ExchangeCurrency\obj\Debug\ExchangeCurrency.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\ExchangeCurrency\ExchangeCurrency\obj\Debug\ExchangeCurrency.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\ExchangeCurrency\ExchangeCurrency\obj\Debug\ExchangeCurrency.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\ExchangeCurrency\ExchangeCurrency\obj\Debug\ExchangeCurrency.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\ExchangeCurrency\ExchangeCurrency\obj\Debug\ExchangeCurrency.exe
+C:\Users\bengi\Desktop\C# Projects\ExchangeCurrency\ExchangeCurrency\obj\Debug\ExchangeCurrency.pdb
